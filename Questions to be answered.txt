@@ -1,0 +1,10 @@
+Questions to be answered:
+Metrics - Sales, Profit, % of Returned Orders. Show % change vs PY.
+
+Compare Sales performance versus previous year over time.
+
+Determine the most profitable product and the most loss making product.
+
+Find out the place where most of the profit is happening.
+
+Sales by Segment.
